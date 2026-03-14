@@ -1,4 +1,4 @@
-# ecurity Tools & Scripts 🛠️
+# security Tools & Scripts 🛠️
 
 **Python and SQL scripts for security automation, log analysis, and threat detection.**
 
